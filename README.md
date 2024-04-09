@@ -4,6 +4,8 @@
 
 ![Aksacarvalho GitHub stats](https://github-readme-stats.vercel.app/api?username=aksacarvalho&show_icons=true&theme=dracula) 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aksacarvalho&hide_progress=true)
+
 SKILLS
 
 <div style="display:inline_block"><br/>
