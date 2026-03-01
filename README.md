@@ -1,7 +1,7 @@
 # 👩‍💻 AKSA CARVALHO
 
 Olá! Seja bem-vindo(a) ao meu espaço. 😃  
-Sou **Aksa Carvalho**, estudante de **Desenvolvimento Full-stack**, sempre descobrindo novas formas de aprender e evoluir na área de tecnologia. Dedico parte da minha rotina a estudar e criar habilidades que me ajudam na profissão de desenvolvimento.
+Sou **Aksa Carvalho**, estudante de **Desenvolvimento Full-stack**, sempre descobrindo novas formas de aprender e evoluir na área de tecnologia. Dedico parte da minha rotina a estudar e criar habilidades que me ajudam no desenvolvimento de uma nova  profissão de desenvolvimento web.
 
 
 
