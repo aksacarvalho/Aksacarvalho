@@ -1,6 +1,9 @@
 # 👋 Olá! Eu sou Aksa Carvalho  
 
+
+
 Gosto bastante da tecnologia e acredito que ela está transformando vidas na educação e na programação. 🚀  
+
 
 
 ## 🌐 Conecte-se comigo
@@ -8,11 +11,6 @@ Gosto bastante da tecnologia e acredito que ela está transformando vidas na edu
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aksa-carvalho-066462257/) 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send/?phone=5511957051582&text&type=phone_number&app_absent=0)
 
-
-## 📊 Estatísticas do GitHub
-![Aksacarvalho GitHub stats](https://github-stats.omsimos.com/api?username=aksacarvalho&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-stats.omsimos.com/api/top-langs/?username=aksacarvalho&layout=compact)
 
 
 ## 💻 Skills
@@ -34,16 +32,14 @@ Gosto bastante da tecnologia e acredito que ela está transformando vidas na edu
 
 
 ## 📌 Projetos em destaque
-- 🔹 [Meu Portfólio](https://github.com/aksacarvalho) *(em construção)*  
-- 🔹 Projetos de estudo em **HTML, CSS, JavaScript, React e Node.js**  
-- 🔹 Experimentos com **GitHub Stats** para visualização de dados  
+-  [Meu Portfólio](https://github.com/aksacarvalho) *(em construção)*  
+-  Projetos de estudo em **HTML, CSS, JavaScript, React e Node.js**  
+-  Experimentos com **GitHub Stats** para visualização de dados  
 
 
 ## 🎯 Objetivos futuros
-- Aprimorar conhecimentos em **React** e **Node.js** com projetos práticos.  
 - Explorar **TypeScript** para maior robustez no desenvolvimento.  
-- Criar aplicações completas com **frontend + backend**.  
-- Contribuir para projetos open source e compartilhar aprendizado.  
+ 
 
 
 
