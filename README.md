@@ -26,7 +26,7 @@ Sou **Aksa Carvalho**, estudante de **Desenvolvimento Full-stack**, sempre desco
 <h3> Sinta-se à vontade para entrar em contato comigo: </h3>
 
 <div>
-<a href="mailto:aksacarvalho43416@gmail.com">
+<a href="gmail:aksacarvalho43416@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Email">
 </a>  
 <a href="https://www.linkedin.com/in/aksa-carvalho-066462257/" target="_blank">
